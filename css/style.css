@@ -48,6 +48,10 @@ ul li a{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+.title p{
+    color: white;
+    font-size: 40px;
+}
 .title h1{
     color: #fff;
     font-size: 70px;
